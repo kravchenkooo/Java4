@@ -1,0 +1,2 @@
+Java is fun! Let's write some code.
+Async processing is very powerful.
